@@ -1,6 +1,17 @@
-<h1>Federal Supply</h1>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Federal Supply</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="favicon.ico">
+</head>
+
+<body>
 <b> sell out of stock only</b>
 <p> Visit Netcomponent to see our full inventory</p>
+</body>
 
-Phone: 215.781.9794
-Email: federal@bboard.com
+<p> Phone: 215.781.9794 </br>
+Email: federal@bboard.com</p>
+</html>
