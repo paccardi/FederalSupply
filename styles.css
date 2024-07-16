@@ -2,10 +2,10 @@
 /* brights red DB2E2E blue 0012D1*/
 body {
     background-color: #E5E1E6;
-    color: #0012D1;
+    color: #000000;
     margin: 0;
     font-family: times, serif;
-    font-size: .8rem;
+    font-size: 1.2rem;
     text-align: center;
     vertical-align: top;
   }
@@ -29,7 +29,7 @@ p{
   h1 {
     color:#272D68;
     font-family: Quicksand, sans-serif;
-    font-size: 2rem;
+    font-size: 4rem;
     margin: 0;
     padding:.3rem;
   }
