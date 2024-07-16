@@ -1,7 +1,8 @@
-
+/* darks red #841A1A blue #272D68*/
+/* brights red DB2E2E blue 0012D1*/
 body {
-    background-color: #eeeeee;
-    color: #222222;
+    background-color: #E5E1E6;
+    color: #0012D1;
     margin: 0;
     font-family: times, serif;
     font-size: .8rem;
@@ -26,21 +27,21 @@ p{
     width: 100%;
   }
   h1 {
-    color:#084177;
+    color:#272D68;
     font-family: Quicksand, sans-serif;
     font-size: 2rem;
     margin: 0;
     padding:.3rem;
   }
   h2{
-    color: #08ace2;
+    color: #841A1A;
     font-family: Perpetua, serif;
     font-size: 1.7rem;
     margin: 0;
     padding:.3rem;
   }
   h3 {
-    color: #08ace2;
+    color: #841A1A;
     font-family: Quicksand, sans-serif;
     font-size: 1.5rem;
     margin: 0;
